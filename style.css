@@ -1,0 +1,95 @@
+    body {
+        color: #3c3c3c;
+    }
+    
+    h1 {
+        /* margin-bottom: 70px; */
+        font-family: 'Raleway', sans-serif;
+        font-size: 35pt;
+        font-weight: lighter;
+    }
+    
+    h2 {
+        font-family: 'Raleway', sans-serif;
+        font-size: 30pt;
+        font-weight: lighter;
+    }
+    
+    .breadcrumb {
+        /* margin-top: 70px;
+        margin-bottom: 31px; */
+        font-family: 'Raleway', sans-serif;
+        font-size: 12pt;
+    }
+    
+    .collapse {
+        font-family: 'Playfair Display', serif;
+        font-size: 16pt;
+    }
+    
+    .single-post-content-wrapper {
+        font-family: 'Playfair Display', serif;
+        font-size: 12pt;
+        line-height: 2;
+    }
+    
+    .card-title {
+        font-family: 'Raleway', sans-serif;
+        font-size: 16pt;
+        padding-top: 26px;
+        color: black;
+    }
+    
+    .card-text {
+        font-family: 'Playfair Display', serif;
+        font-size: 11pt;
+        padding-bottom: 20px;
+    }
+    
+    .card-body {
+        padding: 32px;
+    }
+    
+    .customtext {
+        font-family: 'Playfair Display', serif;
+        font-size: 15pt;
+    }
+    
+    .team {
+        color: black;
+    }
+    
+    .btn-danger {
+        font-family: 'Raleway', sans-serif;
+        font-size: 13pt;
+    }
+    
+    h5 {
+        font-family: 'Raleway', sans-serif;
+        font-size: 20pt;
+        font-weight: lighter;
+    }
+    
+    .list-unstyled {
+        font-family: 'Playfair Display', serif;
+        font-size: 11pt;
+        line-height: 2;
+    }
+    
+    .last {
+        line-height: 1.5;
+    }
+    
+    .imgleft {
+        float: left;
+        margin-right: 10px;
+        max-width: 100%;
+    }
+    /* .email {
+        padding-top: 75px;
+        padding-bottom: 75px;
+    } */
+    
+    .custactive:hover {
+        background: #f2f2f2;
+    }
