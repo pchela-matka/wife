@@ -16,8 +16,6 @@
     }
     
     .breadcrumb {
-        /* margin-top: 70px;
-        margin-bottom: 31px; */
         font-family: 'Raleway', sans-serif;
         font-size: 12pt;
     }
@@ -29,7 +27,7 @@
     
     .single-post-content-wrapper {
         font-family: 'Playfair Display', serif;
-        font-size: 12pt;
+        font-size: 12.3pt;
         line-height: 2;
     }
     
@@ -82,14 +80,14 @@
     
     .imgleft {
         float: left;
-        margin-right: 10px;
+        margin-right: 30px;
         max-width: 100%;
     }
-    /* .email {
-        padding-top: 75px;
-        padding-bottom: 75px;
-    } */
     
     .custactive:hover {
         background: #f2f2f2;
+    }
+    
+    .socialactive:hover {
+        opacity: 0.5;
     }
